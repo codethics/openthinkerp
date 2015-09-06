@@ -1,0 +1,3 @@
+OpenThink ERP merupakan _fork_ dari FrontAccounting.
+
+.....
